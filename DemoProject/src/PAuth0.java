@@ -63,7 +63,7 @@ public class PAuth0 {
 	System.out.println(gc.getLinkedIn());
 	
 	System.out.println(gc.getInstuctor());
-//System.out.println(response);
+
 	}	
 
 }
